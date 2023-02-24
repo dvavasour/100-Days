@@ -9,7 +9,7 @@ tags:
 draft: False
 ---
 
-# I was in an accident but it wasn't my fault
+# "I was in an accident but it wasn't my fault"
 
 Driving a car is lots of things. It's liberating. It's polluting. It can be exhilarating. It can be tiring on a long journey. But it always comes with a grave responsibility.
 
