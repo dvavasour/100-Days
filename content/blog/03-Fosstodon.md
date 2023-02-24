@@ -3,7 +3,7 @@ title: 'Federated Social Media'
 description: 'The Mastodon Influx'
 author:  'Dunstan Vavasour'
 date: '2022-11-08T12:21:59Z'
-dayof100: 03
+dayof100: "03"
 tags:
   - Social Media
   - Fediverse

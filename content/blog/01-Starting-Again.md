@@ -3,7 +3,7 @@ title: 'Starting Again'
 description: 'In which we have another attempt at 100 days of offloading'
 author:  'Dunstan Vavasour'
 date: '2022-04-22T18:09:28+01:00'
-dayof100: 01
+dayof100: "01"
 tags:
   - admin
 draft: False
